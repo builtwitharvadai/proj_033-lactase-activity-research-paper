@@ -91,3 +91,6 @@ $RECYCLE_BIN/
 # Backup files
 *.backup
 *~
+
+# Claude CLI task files
+arvad_task_files/
